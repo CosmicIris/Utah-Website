@@ -19,3 +19,7 @@ a:link {
 a:visited {
      color: #00752B;
 }
+body {
+  padding-right: 30px;
+  padding-left: 30px;
+}
