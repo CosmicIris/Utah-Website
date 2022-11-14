@@ -54,6 +54,8 @@ border-color: #ffcc88;
 a:link {
      color: #DD5509;
 }
+a:visited {
+	color:#DD4809;
 a:hover {
      color: #BD450D;
 }
