@@ -55,12 +55,13 @@ border-color: #ffcc88;
 .titleLink:link {
      color: #DD5509;
 }
+/*
 .titleLink:visited {
 	color:#DD4809;
 .titleLink:hover {
      color: #BD450D;
 }
-
+*/
 body {
   padding-right: 40px;
   padding-left: 40px;
