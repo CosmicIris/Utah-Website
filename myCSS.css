@@ -51,16 +51,16 @@ border-color: #ffcc88;
   border-width: 4px;
   border-radius: 14px;
 }
-/*
-a:link {
+
+.titleLink:link {
      color: #DD5509;
 }
-a:visited {
+.titleLink:visited {
 	color:#DD4809;
-a:hover {
+.titleLink:hover {
      color: #BD450D;
 }
-*/
+
 body {
   padding-right: 40px;
   padding-left: 40px;
