@@ -45,13 +45,13 @@ h2 {
   text-align: center;
    color: #FA902D;
 }
-h3.titleLink:link {
+a.titleLink:link {
      color: #DD5509;
 }
 
-h3.titleLink:visited {
+a.titleLink:visited {
 	color:#DD4809;
-h3.titleLink:hover {
+a.titleLink:hover {
      color: #BD450D;
 }
 
