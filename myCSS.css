@@ -52,10 +52,10 @@ border-color: #ffcc88;
   border-radius: 14px;
 }
 a:link {
-     color: #BA3C09;
+     color: #DD6009;
 }
-a:visited {
-     color: #FF5F01;
+a:hover {
+     color: #DD3A09;
 }
 body {
   padding-right: 40px;
